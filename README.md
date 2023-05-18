@@ -1,5 +1,5 @@
 # Rotifer-tool
-This repository contains the public code, the trained model, and the annotated dataset of the following paper:
+This repository contains annotated dataset, trained model, and tracking visualization code of the following paper:
 > (Under review. After the acceptance, information about the paper will be written.)
 
 ## Datset and trained model
@@ -29,5 +29,5 @@ We have trained the model in the following environment.
 - cuDNN: 8.7.0
 
 ## Code
-This code can be run on Colab so that the environment setup is not needed. If the link below doesn't work, just download and upload it to your Google Drive.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/naotoienaga/rotifer-tool/blob/master/.ipynb)
+The code for visualization of tracking result can be run on Google Colab so that the environment setup is not needed.
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/naotoienaga/rotifer-tool/blob/master/.ipynb](https://github.com/naotoienaga/rotifer-tool/blob/main/visualize_tracking.ipynb))
