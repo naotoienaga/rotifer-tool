@@ -29,5 +29,5 @@ We have trained the model in the following environment.
 - cuDNN: 8.7.0
 
 ## Code
-The code for visualization of tracking result can be run on Google Colab so that the environment setup is not needed.
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/naotoienaga/rotifer-tool/blob/master/.ipynb](https://github.com/naotoienaga/rotifer-tool/blob/main/visualize_tracking.ipynb))
+The code for visualization of tracking result can be run on Google Colab so that the environment setup is not needed.  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/naotoienaga/rotifer-tool/blob/main/visualize_tracking.ipynb)
