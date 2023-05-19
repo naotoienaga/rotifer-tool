@@ -9,7 +9,8 @@ You can download them [here](https://app.box.com/s/7a5l9mkoiciaosx2i7s3wmv743ua3
 - weight.pt: Trained model
 
 ### Annotation format
-Annotation format follows YOLO. That is, each line represents class, ```x, y, w, h```  
+Annotation format follows YOLO. That is, each line represents ```class, x, y, w, h```  
+For ```class```, 0 represents _rotifer_, 1 represents _fertilized_, and 2 represents _ciliate_.  
 Using the size of video (in this dataset, 1080px high and 1920px wide), you can convert them as follows:
 ```
 x of bbox center = x * video width
