@@ -1,6 +1,6 @@
 # Rotifer-tool
 This repository contains annotated dataset, trained model, and tracking visualization code of the following paper:
-> (Under review. After the acceptance, information about the paper will be written.)
+> Naoto Ienaga, Toshinori Takashi, Hitoko Tamamizu, Kei Terayama. Rotifer detection and tracking framework using deep learning for automatic culture systems, _Smart Agricultural Technology_, vol.9, 100577 (2024). [https://doi.org/10.1016/j.atech.2024.100577](https://doi.org/10.1016/j.atech.2024.100577)
 
 ## Datset and trained model
 You can download them [here](https://app.box.com/s/7a5l9mkoiciaosx2i7s3wmv743ua3sh2).
