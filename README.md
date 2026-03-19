@@ -3,7 +3,7 @@ This repository contains annotated dataset, trained model, and tracking visualiz
 > Naoto Ienaga, Toshinori Takashi, Hitoko Tamamizu, Kei Terayama. Rotifer detection and tracking framework using deep learning for automatic culture systems, _Smart Agricultural Technology_, vol.9, 100577 (2024). [https://doi.org/10.1016/j.atech.2024.100577](https://doi.org/10.1016/j.atech.2024.100577)
 
 ## Datset and trained model
-You can download them [here](https://app.box.com/s/7a5l9mkoiciaosx2i7s3wmv743ua3sh2).
+You can download them [here](https://drive.google.com/file/d/1G4wcERYHnegFkECSdwED7lVWIJiFhpBX/view?usp=sharing).
 - IDX.mp4: Videos
 - IDX_bbox: Annotations for videos
 - weight.pt: Trained model
